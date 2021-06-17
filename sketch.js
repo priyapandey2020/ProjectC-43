@@ -16,7 +16,7 @@ function draw() {
   background(bg);
   clues();
   security.display();
-  textSize(20);
+  textSize(25);
   fill("white");
   text("Score: " + score, 450, 50);
 
